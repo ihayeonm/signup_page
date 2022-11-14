@@ -1,0 +1,99 @@
+h2 {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+
+.sign {
+    margin-left: 150px;
+}
+
+.agreement {
+    margin-left: 150px;
+}
+
+.agreement .check {
+    background-color: rgb(244, 243, 243);
+    width: 1150px;
+    height: 55px;
+    vertical-align: center;
+    padding-left: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.agreement input[type=checkbox] {
+    zoom: 1.3;
+    height: 35px;
+}
+
+.agreement label {
+    vertical-align: 15px;
+}
+
+.essential {
+    border: 1px solid lightgray;
+    width: 560px;
+    margin-left: 150px;
+    padding-left: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.essential h5 {
+    padding-left: 10px;
+}
+
+.essential .law {
+    border: 1px solid lightgray;
+    margin-left: 10px;
+    width: 500px;
+    height: 110px;
+    padding: 15px;
+    font-size: 13px;
+    overflow-y: scroll; height:110px;
+}
+
+.essential .agree2 {
+    font-size: 14px;
+    margin-top: 22.178px;
+    margin-bottom: 8px;
+    padding-left: 5px;
+}
+
+.final {
+    display: grid;
+    float: left;
+    grid-template-columns: 1fr 1fr;
+    margin-bottom: 60px;
+}
+
+.essential2 {
+    border: 1px solid lightgray;
+    width: 560px;
+    margin-left: 10px;
+    padding-left: 15px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+.essential2 h5 {
+    padding-left: 10px;
+}
+
+.essential2 .law {
+    border: 1px solid lightgray;
+    margin-left: 10px;
+    width: 500px;
+    height: 110px;
+    padding: 15px;
+    font-size: 13px;
+    overflow-y: scroll; height:110px;
+}
+
+.essential2 .agree2 {
+    font-size: 14px;
+    margin-top: 22.178px;
+    margin-bottom: 8px;
+    padding-left: 5px;
+}
